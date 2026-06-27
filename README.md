@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditir360
-- 👍 I’m interested in physics, programming, math, and physics.
+- 👍 I’m interested in programming. 
 - 🌱 I know C++, Python, Java, HTML, and CSS. 
 
 <!---
